@@ -1,4 +1,4 @@
-# Winter_Project
+# BMo
 Winter Project for my MS in Robotics Winter Quarter!
 
 [![Video Demonstration](https://user-images.githubusercontent.com/32602477/225807597-5707af96-a6a8-4298-8ed3-bf45b2ab135e.jpg)](https://www.youtube.com/watch?v=KZacVYFTs9U)
