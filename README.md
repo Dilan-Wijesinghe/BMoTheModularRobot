@@ -11,9 +11,9 @@ It also includes the final CAD files I used to create each module.
 
 ### Hardware
 Below is the boards used, and the magnetic connector that made everything possible
-[Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
-[Adafruit Feather ESP32](https://www.adafruit.com/product/3591)
-[Magnetic Pogo Pin](https://www.adafruit.com/product/5413)
+* [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
+* [Adafruit Feather ESP32](https://www.adafruit.com/product/3591)
+* [Magnetic Pogo Pin](https://www.adafruit.com/product/5413)
 
 ### Uploading Code
 To upload code onto the RP2040 boards, hold down the BOOTSEL button while inserting a USB-C from your PC.
