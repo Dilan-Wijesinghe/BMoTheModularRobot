@@ -1,7 +1,7 @@
 # Winter_Project
 Winter Project for my MS in Robotics Winter Quarter!
 
-[![Video Demonstration](https://www.youtube.com/watch?v=KZacVYFTs9U/0.jpg)](https://www.youtube.com/watch?v=KZacVYFTs9U)
+[![Video Demonstration](https://img.youtube.com/watch?v=KZacVYFTs9U/0.jpg)](https://www.youtube.com/watch?v=KZacVYFTs9U)
 
 ### Project Description
 BMo is a modular robot consisting of three distinct modules, the brain (BMo), motor (MMo), and hinge (HMo) modules. By connecting these modules in a different configurations, BMo can transform into several different robots. BMo was inspired by the modular robotics kits I had as a child, and was a challenge to myself to do a very intensive hardware project with almost zero experience.
