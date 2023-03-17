@@ -56,6 +56,11 @@ void data_receive(const uint8_t * mac, const uint8_t *data, int len) {
   Wire.write(input.cmd);
   Wire.endTransmission();
 
+  // Xmo # To add another i2c transmission
+  // Wire.beginTransmission(HEX_ADDRESS);
+  // Wire.write(input.cmd);
+  // Wire.endTransmission();
+
   delay(100);
 }
  
