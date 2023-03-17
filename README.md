@@ -3,11 +3,17 @@ Winter Project for my MS in Robotics Winter Quarter!
 
 [![Video Demonstration](https://user-images.githubusercontent.com/32602477/225807597-5707af96-a6a8-4298-8ed3-bf45b2ab135e.jpg)](https://www.youtube.com/watch?v=KZacVYFTs9U)
 
+
+![All Modules](https://user-images.githubusercontent.com/32602477/225952373-cf8b64a5-5b4b-4249-a0e5-da4ecbfbf8a4.jpg)
+
+
 ### Project Description
 BMo is a modular robot consisting of three distinct modules, the brain (BMo), motor (MMo), and hinge (HMo) modules. By connecting these modules in a different configurations, BMo can transform into several different robots. BMo was inspired by the modular robotics kits I had as a child, and was a challenge to myself to do a very intensive hardware project with almost zero experience.
 
 This repository contains the code accompanying BMo.
 It also includes the final CAD files I used to create each module.
+
+![BMo in a 'Crab' Configuration](https://user-images.githubusercontent.com/32602477/225952341-b935cd67-b0e1-4c41-ae29-e9a540979084.jpg)
 
 ### Hardware
 Below is the boards used, and the magnetic connector that made everything possible
